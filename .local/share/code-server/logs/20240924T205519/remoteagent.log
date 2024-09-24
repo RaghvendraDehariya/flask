@@ -1,0 +1,13 @@
+2024-09-24 20:55:19.250 [info] 
+
+
+
+
+2024-09-24 20:55:19.251 [error] Error: Unable to retrieve mac address (unexpected format)
+    at k (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/server/node/server.main.js:100:3515)
+    at g (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/server/node/server.main.js:100:4571)
+    at async /data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/server/node/server.main.js:100:4455
+2024-09-24 20:55:19.372 [info] Extension host agent started.
+2024-09-24 20:56:03.489 [info] [127.0.0.1][2980597a][ManagementConnection] New connection established.
+2024-09-24 20:56:07.255 [info] [127.0.0.1][1e1ff69d][ExtensionHostConnection] New connection established.
+2024-09-24 20:56:08.173 [info] [127.0.0.1][1e1ff69d][ExtensionHostConnection] <26999> Launched Extension Host Process.

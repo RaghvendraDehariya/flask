@@ -1,78 +1,3 @@
-ls
-cd java/
-fish
-fish
-ls
-cd java/
-l
-sls
-ls
-fish
-cd ~
-ls
-cd ..
-ls
-cd ..
-ls
-cd ..
-ls
-ls -Rl
-cd !
-cd ~
-ls
-clear 
-fish
-clear
-ls
-fish
-fish
-java
-java --version
-apt update
-apt upgrade
-clear 
-sl
-clear 
-clear
-fish
-clear 
-first
-cd java
-fish
-cd java/
-ls
-vi first.java 
-cd java/
-vi first.java 
-fish
-fish
-fish
-cd java/
-ls
-vi evenodd.java 
-vi palindrome.java 
-vi armstrong.java 
-clear 
-fish
-clear 
-cd java/
-ls
-fish
-cd java/
-vi first.java 
-vi variable.java 
-clear
-ls
-clear
-fish
-fish
-fish
-clear 
-ls
-cd downloads/
-la
-ls
-./ATM
 ./ATM3
 clear 
 ls
@@ -495,6 +420,81 @@ clear
 code-server templates/index.html 
 code-server templates/greet.html 
 code-server app.py
+flask run
+flask run
+clear
+fish
+fish
+ls
+pwd
+cd ..
+ls
+cd ..
+ls
+cd home/html/
+ls
+cd ..
+ls
+rm html
+rm -r html
+ls
+clear
+ls
+cd c
+ls
+code-server lowertriangular.c
+echo "#Raghav-repo" >>README.md
+ls
+rm README.md 
+cd ..
+ls
+clear
+ls
+echo "#Raghav-repo" >>README.md
+ld
+ls
+clear
+ls
+git init
+git add README.md 
+ls
+ls -a
+vi .git
+ls
+git commit -m "first commit"
+ls
+vi .git
+ls
+git branch -M main
+ls
+git remote add origin https://github.com/RaghvendraDehariya/Raghav-repo.git
+git push -u origin main
+ls
+cd 
+ls
+cd website/
+clear
+ls
+code-server templates/layout.html
+code-server templates/layout.html
+clear
+flask run
+clear
+clear
+ls
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+clear
 flask run
 flask run
 clear
