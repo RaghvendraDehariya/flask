@@ -1,0 +1,73 @@
+2024-09-24 18:29:37.358 [info] 
+
+
+
+
+2024-09-24 18:29:37.358 [error] Error: Unable to retrieve mac address (unexpected format)
+    at k (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/server/node/server.main.js:100:3515)
+    at g (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/server/node/server.main.js:100:4571)
+    at async /data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/server/node/server.main.js:100:4455
+2024-09-24 18:29:37.436 [info] Extension host agent started.
+2024-09-24 18:29:46.667 [info] [127.0.0.1][57c28171][ManagementConnection] New connection established.
+2024-09-24 18:29:49.928 [info] [127.0.0.1][67dc1db9][ExtensionHostConnection] New connection established.
+2024-09-24 18:29:50.561 [info] [127.0.0.1][67dc1db9][ExtensionHostConnection] <27652> Launched Extension Host Process.
+2024-09-24 19:48:56.885 [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+2024-09-24 19:49:00.778 [info] Installing extension: jeff-hykin.better-cpp-syntax
+2024-09-24 19:49:36.166 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/bootstrap-amd.js
+- /data/data/com.termux/files/usr/lib/code-server/out/node/util.js
+- /data/data/com.termux/files/usr/lib/code-server/out/node/cli.js
+- /data/data/com.termux/files/usr/lib/code-server/out/node/entry.js
+2024-09-24 19:49:36.169 [info] Extension signature verification is not done: jeff-hykin.better-cpp-syntax
+2024-09-24 19:49:36.455 [info] Extracted extension to file:///data/data/com.termux/files/home/.local/share/code-server/extensions/jeff-hykin.better-cpp-syntax-1.27.1-universal: jeff-hykin.better-cpp-syntax
+2024-09-24 19:49:36.472 [info] Renamed to /data/data/com.termux/files/home/.local/share/code-server/extensions/jeff-hykin.better-cpp-syntax-1.27.1-universal
+2024-09-24 19:49:36.485 [info] Extracting extension completed. jeff-hykin.better-cpp-syntax
+2024-09-24 19:49:36.508 [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+2024-09-24 19:50:01.760 [info] Getting Manifest... franneck94.vscode-c-cpp-dev-extension-pack
+2024-09-24 19:50:11.490 [info] Installing extension: franneck94.vscode-c-cpp-dev-extension-pack
+2024-09-24 19:50:13.199 [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+2024-09-24 19:50:16.297 [info] Skipping the packed extension as it cannot be installed cheshirekow.cmake-format The 'cheshirekow.cmake-format' extension is not available in code-server for Web.
+2024-09-24 19:50:16.299 [info] Skipping the packed extension as it cannot be installed bbenoist.doxygen The 'bbenoist.doxygen' extension is not available in code-server for Web.
+2024-09-24 19:50:16.300 [info] Skipping the packed extension as it cannot be installed cschlosser.doxdocgen The 'cschlosser.doxdocgen' extension is not available in code-server for Web.
+2024-09-24 19:50:16.302 [info] Skipping the packed extension as it cannot be installed twxs.cmake The 'twxs.cmake' extension is not available in code-server for Web.
+2024-09-24 19:50:16.304 [info] Skipping the packed extension as it cannot be installed vadimcn.vscode-lldb The 'vadimcn.vscode-lldb' extension is not available in code-server for Web.
+2024-09-24 19:50:16.307 [info] Skipping the packed extension as it cannot be installed franneck94.c-cpp-runner The 'franneck94.c-cpp-runner' extension is not available in code-server for Web.
+2024-09-24 19:50:16.310 [info] Skipping the packed extension as it cannot be installed franneck94.vscode-c-cpp-config The 'franneck94.vscode-c-cpp-config' extension is not available in code-server for Web.
+2024-09-24 19:50:16.312 [info] Getting Manifest... 13xforever.language-x86-64-assembly
+2024-09-24 19:50:20.012 [info] Installing extension: 13xforever.language-x86-64-assembly
+2024-09-24 19:50:25.545 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/bootstrap-amd.js
+- /data/data/com.termux/files/usr/lib/code-server/out/node/util.js
+- /data/data/com.termux/files/usr/lib/code-server/out/node/cli.js
+- /data/data/com.termux/files/usr/lib/code-server/out/node/entry.js
+2024-09-24 19:50:25.546 [info] Extension signature verification is not done: franneck94.vscode-c-cpp-dev-extension-pack
+2024-09-24 19:50:25.547 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/bootstrap-amd.js
+- /data/data/com.termux/files/usr/lib/code-server/out/node/util.js
+- /data/data/com.termux/files/usr/lib/code-server/out/node/cli.js
+- /data/data/com.termux/files/usr/lib/code-server/out/node/entry.js
+2024-09-24 19:50:25.547 [info] Extension signature verification is not done: 13xforever.language-x86-64-assembly
+2024-09-24 19:50:25.604 [info] Extracted extension to file:///data/data/com.termux/files/home/.local/share/code-server/extensions/franneck94.vscode-c-cpp-dev-extension-pack-0.10.0-universal: franneck94.vscode-c-cpp-dev-extension-pack
+2024-09-24 19:50:25.612 [info] Extracted extension to file:///data/data/com.termux/files/home/.local/share/code-server/extensions/13xforever.language-x86-64-assembly-3.1.4-universal: 13xforever.language-x86-64-assembly
+2024-09-24 19:50:25.618 [info] Renamed to /data/data/com.termux/files/home/.local/share/code-server/extensions/franneck94.vscode-c-cpp-dev-extension-pack-0.10.0-universal
+2024-09-24 19:50:25.621 [info] Renamed to /data/data/com.termux/files/home/.local/share/code-server/extensions/13xforever.language-x86-64-assembly-3.1.4-universal
+2024-09-24 19:50:25.624 [info] Extracting extension completed. franneck94.vscode-c-cpp-dev-extension-pack
+2024-09-24 19:50:25.627 [info] Extracting extension completed. 13xforever.language-x86-64-assembly
+2024-09-24 19:50:25.643 [info] Extension installed successfully: franneck94.vscode-c-cpp-dev-extension-pack
+2024-09-24 19:50:25.644 [info] Extension installed successfully: 13xforever.language-x86-64-assembly
+2024-09-24 19:57:35.703 [info] [127.0.0.1][57c28171][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-24 19:57:36.077 [info] [127.0.0.1][67dc1db9][ExtensionHostConnection] <27652> Extension Host Process exited with code: 0, signal: null.
+2024-09-24 19:57:39.101 [info] [127.0.0.1][a3aa8566][ManagementConnection] New connection established.
+2024-09-24 19:57:40.662 [info] [127.0.0.1][a2f7d2ab][ExtensionHostConnection] New connection established.
+2024-09-24 19:57:40.706 [info] [127.0.0.1][a2f7d2ab][ExtensionHostConnection] <16869> Launched Extension Host Process.
+2024-09-24 20:32:39.817 [info] [127.0.0.1][a3aa8566][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-24 20:32:40.359 [info] [127.0.0.1][a2f7d2ab][ExtensionHostConnection] <16869> Extension Host Process exited with code: 0, signal: null.
+2024-09-24 20:32:40.386 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/server/node/server.main.js:190:6057)
+    at process.emit (node:events:529:35)
+2024-09-24 20:32:44.552 [info] [127.0.0.1][f1a1f1b0][ManagementConnection] New connection established.
+2024-09-24 20:32:47.140 [info] [127.0.0.1][89ca706e][ExtensionHostConnection] New connection established.
+2024-09-24 20:32:47.167 [info] [127.0.0.1][89ca706e][ExtensionHostConnection] <20729> Launched Extension Host Process.

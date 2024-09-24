@@ -1,0 +1,120 @@
+[2024-09-20T15:12:21.749Z] info  code-server 4.89.1 effc6e95b4ad1c5ac5f9083ec06663ba4a2e005c
+[2024-09-20T15:12:21.751Z] info  Using user-data-dir /data/data/com.termux/files/home/.local/share/code-server
+[2024-09-20T15:12:21.787Z] info  Using config file /data/data/com.termux/files/home/.config/code-server/config.yaml
+[2024-09-20T15:12:21.788Z] info  HTTP server listening on http://127.0.0.1:8080/
+[2024-09-20T15:12:21.788Z] info    - Authentication is enabled
+[2024-09-20T15:12:21.788Z] info      - Using password from /data/data/com.termux/files/home/.config/code-server/config.yaml
+[2024-09-20T15:12:21.788Z] info    - Not serving HTTPS
+[2024-09-20T15:12:21.788Z] info  Session server listening on /data/data/com.termux/files/home/.local/share/code-server/code-server-ipc.sock
+[20:43:10] 
+
+
+
+
+[20:43:10] Extension host agent started.
+[20:43:11] Started initializing default profile extensions in extensions installation folder. file:///data/data/com.termux/files/home/.local/share/code-server/extensions
+[20:43:11] Completed initializing default profile extensions in extensions installation folder. file:///data/data/com.termux/files/home/.local/share/code-server/extensions
+[20:49:01] [127.0.0.1][a6266587][ManagementConnection] New connection established.
+[20:49:04] [127.0.0.1][902814e4][ExtensionHostConnection] New connection established.
+[20:49:05] [127.0.0.1][902814e4][ExtensionHostConnection] <2286> Launched Extension Host Process.
+[20:49:41] [127.0.0.1][a6266587][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[20:49:41] [127.0.0.1][902814e4][ExtensionHostConnection] <2286> Extension Host Process exited with code: 0, signal: null.
+[20:49:44] [127.0.0.1][04194f65][ManagementConnection] New connection established.
+[20:49:46] [127.0.0.1][b985dbb2][ExtensionHostConnection] New connection established.
+[20:49:46] [127.0.0.1][b985dbb2][ExtensionHostConnection] <4394> Launched Extension Host Process.
+[2024-09-22T16:14:05.848Z] info  code-server 4.89.1 effc6e95b4ad1c5ac5f9083ec06663ba4a2e005c
+[2024-09-22T16:14:05.851Z] info  Using user-data-dir /data/data/com.termux/files/home/.local/share/code-server
+[2024-09-22T16:14:05.901Z] info  Using config file /data/data/com.termux/files/home/.config/code-server/config.yaml
+[2024-09-22T16:14:05.902Z] info  HTTP server listening on http://127.0.0.1:8080/
+[2024-09-22T16:14:05.903Z] info    - Authentication is enabled
+[2024-09-22T16:14:05.903Z] info      - Using password from /data/data/com.termux/files/home/.config/code-server/config.yaml
+[2024-09-22T16:14:05.903Z] info    - Not serving HTTPS
+[2024-09-22T16:14:05.903Z] info  Session server listening on /data/data/com.termux/files/home/.local/share/code-server/code-server-ipc.sock
+[21:44:53] 
+
+
+
+
+[21:44:53] Extension host agent started.
+[21:47:09] [127.0.0.1][3473382c][ManagementConnection] New connection established.
+[21:47:11] [127.0.0.1][534e387e][ExtensionHostConnection] New connection established.
+[21:47:12] [127.0.0.1][534e387e][ExtensionHostConnection] <19073> Launched Extension Host Process.
+[21:51:54] [127.0.0.1][3473382c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[21:51:54] [127.0.0.1][534e387e][ExtensionHostConnection] <19073> Extension Host Process exited with code: 0, signal: null.
+[21:52:04] [127.0.0.1][d3788961][ManagementConnection] New connection established.
+[21:52:07] [127.0.0.1][d8f8e6c1][ExtensionHostConnection] New connection established.
+[21:52:07] [127.0.0.1][d8f8e6c1][ExtensionHostConnection] <22157> Launched Extension Host Process.
+[2024-09-24T08:41:41.508Z] info  code-server 4.89.1 effc6e95b4ad1c5ac5f9083ec06663ba4a2e005c
+[2024-09-24T08:41:41.511Z] info  Using user-data-dir /data/data/com.termux/files/home/.local/share/code-server
+[2024-09-24T08:41:41.555Z] info  Using config file /data/data/com.termux/files/home/.config/code-server/config.yaml
+[2024-09-24T08:41:41.555Z] info  HTTP server listening on http://127.0.0.1:8080/
+[2024-09-24T08:41:41.556Z] info    - Authentication is enabled
+[2024-09-24T08:41:41.556Z] info      - Using password from /data/data/com.termux/files/home/.config/code-server/config.yaml
+[2024-09-24T08:41:41.556Z] info    - Not serving HTTPS
+[2024-09-24T08:41:41.556Z] info  Session server listening on /data/data/com.termux/files/home/.local/share/code-server/code-server-ipc.sock
+[14:12:13] 
+
+
+
+
+[14:12:13] Extension host agent started.
+[14:12:27] [127.0.0.1][36153863][ManagementConnection] New connection established.
+[14:12:30] [127.0.0.1][0372aa47][ExtensionHostConnection] New connection established.
+[14:12:31] [127.0.0.1][0372aa47][ExtensionHostConnection] <21475> Launched Extension Host Process.
+[14:13:24] [127.0.0.1][36153863][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2024-09-24T12:59:10.040Z] info  code-server 4.89.1 effc6e95b4ad1c5ac5f9083ec06663ba4a2e005c
+[2024-09-24T12:59:10.044Z] info  Using user-data-dir /data/data/com.termux/files/home/.local/share/code-server
+[2024-09-24T12:59:10.118Z] info  Using config file /data/data/com.termux/files/home/.config/code-server/config.yaml
+[2024-09-24T12:59:10.119Z] info  HTTP server listening on http://127.0.0.1:8080/
+[2024-09-24T12:59:10.121Z] info    - Authentication is enabled
+[2024-09-24T12:59:10.121Z] info      - Using password from /data/data/com.termux/files/home/.config/code-server/config.yaml
+[2024-09-24T12:59:10.121Z] info    - Not serving HTTPS
+[2024-09-24T12:59:10.122Z] info  Session server listening on /data/data/com.termux/files/home/.local/share/code-server/code-server-ipc.sock
+[18:29:37] 
+
+
+
+
+[18:29:37] Extension host agent started.
+[18:29:46] [127.0.0.1][57c28171][ManagementConnection] New connection established.
+[18:29:49] [127.0.0.1][67dc1db9][ExtensionHostConnection] New connection established.
+[18:29:50] [127.0.0.1][67dc1db9][ExtensionHostConnection] <27652> Launched Extension Host Process.
+[19:48:56] Getting Manifest... jeff-hykin.better-cpp-syntax
+[19:49:00] Installing extension: jeff-hykin.better-cpp-syntax
+[19:49:36] Extension signature verification is not done: jeff-hykin.better-cpp-syntax
+[19:49:36] Extracted extension to file:///data/data/com.termux/files/home/.local/share/code-server/extensions/jeff-hykin.better-cpp-syntax-1.27.1-universal: jeff-hykin.better-cpp-syntax
+[19:49:36] Renamed to /data/data/com.termux/files/home/.local/share/code-server/extensions/jeff-hykin.better-cpp-syntax-1.27.1-universal
+[19:49:36] Extracting extension completed. jeff-hykin.better-cpp-syntax
+[19:49:36] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[19:50:01] Getting Manifest... franneck94.vscode-c-cpp-dev-extension-pack
+[19:50:11] Installing extension: franneck94.vscode-c-cpp-dev-extension-pack
+[19:50:13] Getting Manifest... jeff-hykin.better-cpp-syntax
+[19:50:16] Skipping the packed extension as it cannot be installed cheshirekow.cmake-format The 'cheshirekow.cmake-format' extension is not available in code-server for Web.
+[19:50:16] Skipping the packed extension as it cannot be installed bbenoist.doxygen The 'bbenoist.doxygen' extension is not available in code-server for Web.
+[19:50:16] Skipping the packed extension as it cannot be installed cschlosser.doxdocgen The 'cschlosser.doxdocgen' extension is not available in code-server for Web.
+[19:50:16] Skipping the packed extension as it cannot be installed twxs.cmake The 'twxs.cmake' extension is not available in code-server for Web.
+[19:50:16] Skipping the packed extension as it cannot be installed vadimcn.vscode-lldb The 'vadimcn.vscode-lldb' extension is not available in code-server for Web.
+[19:50:16] Skipping the packed extension as it cannot be installed franneck94.c-cpp-runner The 'franneck94.c-cpp-runner' extension is not available in code-server for Web.
+[19:50:16] Skipping the packed extension as it cannot be installed franneck94.vscode-c-cpp-config The 'franneck94.vscode-c-cpp-config' extension is not available in code-server for Web.
+[19:50:16] Getting Manifest... 13xforever.language-x86-64-assembly
+[19:50:20] Installing extension: 13xforever.language-x86-64-assembly
+[19:50:25] Extension signature verification is not done: franneck94.vscode-c-cpp-dev-extension-pack
+[19:50:25] Extension signature verification is not done: 13xforever.language-x86-64-assembly
+[19:50:25] Extracted extension to file:///data/data/com.termux/files/home/.local/share/code-server/extensions/franneck94.vscode-c-cpp-dev-extension-pack-0.10.0-universal: franneck94.vscode-c-cpp-dev-extension-pack
+[19:50:25] Extracted extension to file:///data/data/com.termux/files/home/.local/share/code-server/extensions/13xforever.language-x86-64-assembly-3.1.4-universal: 13xforever.language-x86-64-assembly
+[19:50:25] Renamed to /data/data/com.termux/files/home/.local/share/code-server/extensions/franneck94.vscode-c-cpp-dev-extension-pack-0.10.0-universal
+[19:50:25] Renamed to /data/data/com.termux/files/home/.local/share/code-server/extensions/13xforever.language-x86-64-assembly-3.1.4-universal
+[19:50:25] Extracting extension completed. franneck94.vscode-c-cpp-dev-extension-pack
+[19:50:25] Extracting extension completed. 13xforever.language-x86-64-assembly
+[19:50:25] Extension installed successfully: franneck94.vscode-c-cpp-dev-extension-pack
+[19:50:25] Extension installed successfully: 13xforever.language-x86-64-assembly
+[19:57:35] [127.0.0.1][57c28171][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:57:36] [127.0.0.1][67dc1db9][ExtensionHostConnection] <27652> Extension Host Process exited with code: 0, signal: null.
+[19:57:39] [127.0.0.1][a3aa8566][ManagementConnection] New connection established.
+[19:57:40] [127.0.0.1][a2f7d2ab][ExtensionHostConnection] New connection established.
+[19:57:40] [127.0.0.1][a2f7d2ab][ExtensionHostConnection] <16869> Launched Extension Host Process.
+[20:32:39] [127.0.0.1][a3aa8566][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[20:32:40] [127.0.0.1][a2f7d2ab][ExtensionHostConnection] <16869> Extension Host Process exited with code: 0, signal: null.
+[20:32:44] [127.0.0.1][f1a1f1b0][ManagementConnection] New connection established.
+[20:32:47] [127.0.0.1][89ca706e][ExtensionHostConnection] New connection established.
+[20:32:47] [127.0.0.1][89ca706e][ExtensionHostConnection] <20729> Launched Extension Host Process.

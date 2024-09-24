@@ -1,0 +1,107 @@
+2024-09-24 19:57:43.994 [info] Extension host with pid 16869 started
+2024-09-24 19:57:44.033 [info] Lock '/data/data/com.termux/files/home/.local/share/code-server/User/workspaceStorage/5027dcd8/vscode.lock': Lock acquired.
+2024-09-24 19:57:44.203 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-24 19:57:44.372 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-24 19:57:44.463 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-24 19:57:44.464 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-24 19:57:45.556 [info] Eager extensions activated
+2024-09-24 19:57:45.557 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-24 19:57:45.561 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-24 19:58:10.441 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-09-24 19:58:43.041 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-24 19:58:43.046 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-24 20:08:55.832 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-09-24 20:27:33.190 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-09-24 20:32:39.812 [info] Extension host terminating: received terminate message from renderer
+2024-09-24 20:32:39.824 [info] Lock '/data/data/com.termux/files/home/.local/share/code-server/User/workspaceStorage/5027dcd8/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-09-24 20:32:40.257 [error] Canceled: Canceled
+	at new A (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:143:47098)
+	at c.U (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:150:5508)
+	at z.<computed>.T.charCodeAt.z.<computed> (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:150:2962)
+	at v.g (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:153:192979)
+	at v.executeCommand (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:153:192403)
+	at j.registerCommand.description (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:153:191713)
+	at v.h (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:153:193518)
+	at v.g (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:153:192503)
+	at v.executeCommand (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:153:192403)
+	at Object.executeCommand (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:163:22641)
+	at u.O [as value] (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:945138)
+	at o.y (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+	at o.z (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:730)
+	at o.fire (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:946)
+	at Object.p [as dispose] (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:964222)
+	at /data/data/com.termux/files/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:970260
+	at Array.forEach (<anonymous>)
+	at f.dispose (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:970246)
+	at l.<anonymous> (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:151:4713)
+	at l.dispose (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:151:4848)
+	at l.<anonymous> (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:947395)
+	at l.dispose (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:151:4848)
+	at u (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:30:750)
+	at n.eb (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:159:10738)
+	at /data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:159:8559
+	at Array.map (<anonymous>)
+	at n.$ (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:159:8547)
+	at n.terminate (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:159:8822)
+	at u.terminate (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at l (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:176:9924)
+	at u.value (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:176:7970)
+	at o.y (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+	at o.fire (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+	at d.fire (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:96:14173)
+	at r.z (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:96:17218)
+	at u.value (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:96:15670)
+	at o.y (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+	at o.fire (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+	at g.acceptChunk (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:96:11947)
+	at u.value (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:96:11234)
+	at o.y (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+	at o.fire (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+	at i.z (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:173:19702) setContext undefined
+2024-09-24 20:32:40.258 [error] Canceled: Canceled
+	at new A (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:143:47098)
+	at c.U (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:150:5508)
+	at z.<computed>.T.charCodeAt.z.<computed> (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:150:2962)
+	at v.g (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:153:192979)
+	at v.executeCommand (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:153:192403)
+	at j.registerCommand.description (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:153:191713)
+	at v.h (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:153:193518)
+	at v.g (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:153:192503)
+	at v.executeCommand (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:153:192403)
+	at Object.executeCommand (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:163:22641)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js:2:322969)
+	at /data/data/com.termux/files/usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js:2:323928
+	at u.value (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:1050711)
+	at o.y (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+	at o.z (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:730)
+	at o.fire (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:946)
+	at Object.p [as dispose] (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:964222)
+	at /data/data/com.termux/files/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:970260
+	at Array.forEach (<anonymous>)
+	at f.dispose (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:970246)
+	at l.<anonymous> (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:151:4713)
+	at l.dispose (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:151:4848)
+	at l.<anonymous> (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/extensions/git/dist/main.js:2:947395)
+	at l.dispose (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:151:4848)
+	at u (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:30:750)
+	at n.eb (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:159:10738)
+	at /data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:159:8559
+	at Array.map (<anonymous>)
+	at n.$ (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:159:8547)
+	at n.terminate (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:159:8822)
+	at u.terminate (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at l (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:176:9924)
+	at u.value (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:176:7970)
+	at o.y (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+	at o.fire (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+	at d.fire (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:96:14173)
+	at r.z (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:96:17218)
+	at u.value (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:96:15670)
+	at o.y (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+	at o.fire (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+	at g.acceptChunk (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:96:11947)
+	at u.value (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:96:11234)
+	at o.y (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+	at o.fire (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+	at i.z (/data/data/com.termux/files/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:173:19702) setContext undefined
+2024-09-24 20:32:40.275 [info] Extension host with pid 16869 exiting with code 0

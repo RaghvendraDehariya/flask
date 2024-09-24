@@ -1,0 +1,16 @@
+2024-09-24 14:12:33.740 [info] Extension host with pid 21475 started
+2024-09-24 14:12:33.740 [error] Error: EEXIST: file already exists, open '/data/data/com.termux/files/home/.local/share/code-server/User/workspaceStorage/5027dcd8/vscode.lock'
+2024-09-24 14:12:33.752 [info] Lock '/data/data/com.termux/files/home/.local/share/code-server/User/workspaceStorage/5027dcd8/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-09-24 14:12:33.773 [info] Lock '/data/data/com.termux/files/home/.local/share/code-server/User/workspaceStorage/5027dcd8/vscode.lock': The pid 22157 appears to be gone.
+2024-09-24 14:12:33.773 [info] Lock '/data/data/com.termux/files/home/.local/share/code-server/User/workspaceStorage/5027dcd8/vscode.lock': Deleting a stale lock.
+2024-09-24 14:12:33.810 [info] Lock '/data/data/com.termux/files/home/.local/share/code-server/User/workspaceStorage/5027dcd8/vscode.lock': Lock acquired.
+2024-09-24 14:12:33.953 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-24 14:12:34.104 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-24 14:12:34.107 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-24 14:12:35.193 [info] Eager extensions activated
+2024-09-24 14:12:35.195 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-24 14:12:35.198 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-24 14:12:36.823 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-09-24 14:12:36.830 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-24 14:13:24.203 [info] Extension host terminating: received terminate message from renderer
+2024-09-24 14:13:24.207 [info] Lock '/data/data/com.termux/files/home/.local/share/code-server/User/workspaceStorage/5027dcd8/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.

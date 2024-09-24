@@ -1,0 +1,3 @@
+MVI A,20H
+MVI B,20H
+ADD B
